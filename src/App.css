@@ -8,3 +8,23 @@ body{
   height: 100vh;
 
 }
+#Introduce{
+  width: 100%;
+  height: 400px;
+  background-color: red;
+}
+#Stack{
+  width: 100%;
+  height: 300px;
+  background-color: blue;
+}
+#Portpolio{
+  width: 100%;
+  height: 400px;
+  background-color: black;
+}
+#SNS{
+  width: 100%;
+  height: 400px;
+  background-color: beige;
+}
